@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <p>
-      Sick nostalgiska gamez
+      Sjukt nostalgiska gamez
       </p>
     </div>
   );
